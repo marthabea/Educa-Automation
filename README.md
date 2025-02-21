@@ -21,6 +21,8 @@ O projeto é para beneficiar todos nós. Se tiver interesse, você pode colabora
 
 ## 🤟 Onde me encontrar?
 
+Você pode entrar em contato comigo tanto no Linkedln, como E-mail. Aproveitando, se você ainda não me segue, essa é a oportunidade para não perder nenhuma novidade!
+
 [![Linkedin](https://img.shields.io/badge/-LINKEDLN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martha-beatriz/)](https://www.linkedin.com/in/martha-beatriz/)
 [![Gmail Badge](https://img.shields.io/badge/EMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marthabeatrizsiq@gmail.com)](mailto:marthabeatrizsiq@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/marthabea?label=follow&style=social)](https://github.com/marthabea)
