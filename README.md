@@ -22,6 +22,6 @@ O projeto é para beneficiar todos nós. Se tiver interesse, você pode colabora
 
 ## 🤟 Onde me encontrar?
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/martha-beatriz/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:marthabeatrizsiq@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/marthabea)
+[![Linkedin](https://img.shields.io/badge/-LINKEDLN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martha-beatriz/)](https://www.linkedin.com/in/martha-beatriz/)
+[![Gmail Badge](https://img.shields.io/badge/GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marthabeatrizsiq@gmail.com)](mailto:marthabeatrizsiq@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/marthabea?label=follow&style=social)](https://github.com/marthabea)
