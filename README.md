@@ -1,4 +1,6 @@
-# 👩‍💻 Educa-Automation
+<p align="center">
+  <img src=".github/assets/ef2f91e1-864a-438a-9161-3b0c28d5c3d0.png">
+</p>
 
 Sejam muito bem-vindos (as) ao repositório que vai ajudar no seu aprendizado dentro da área de automação! Não importa se você é júnior, pleno ou sênior. O que realmente importa é você conseguir aproveitar todos os conteúdos que serão publicados aqui!
 
