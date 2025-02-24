@@ -1,6 +1,6 @@
-![Banner](https://github.com/user-attachments/assets/a0547e38-f355-43f3-baa3-3dcae5eafe36)
+### Sejam muito bem-vindos (as) ao repositório que vai ajudar no seu aprendizado dentro da área de automação! Não importa se você é júnior, pleno ou sênior. O que realmente importa é você conseguir aproveitar todos os conteúdos que serão publicados aqui!
 
-## Sejam muito bem-vindos (as) ao repositório que vai ajudar no seu aprendizado dentro da área de automação! Não importa se você é júnior, pleno ou sênior. O que realmente importa é você conseguir aproveitar todos os conteúdos que serão publicados aqui!
+![Banner](https://github.com/user-attachments/assets/a0547e38-f355-43f3-baa3-3dcae5eafe36)
 
 ---
 
